@@ -1,4 +1,4 @@
-# make.fun tagline entry
+# make.fun Tagline Entry
 
-A small Node.js program that writes this competition entry to the configured
-make.fun output directory.
+A small Node.js entry for the make.fun tagline competition.
+Run `main.ts` to write the entry text to the configured output directory.
