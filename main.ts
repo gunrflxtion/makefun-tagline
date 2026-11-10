@@ -1,5 +1,5 @@
-// Writes the competition tagline to the make.fun output directory.
-// The program writes the same bytes on every run, with no trailing newline.
+// Sends the tagline to the make.fun output directory.
+// Every run writes identical bytes, without a trailing newline.
 import { mkdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
